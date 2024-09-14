@@ -6,3 +6,5 @@ This Python application fetches current and historical weather data for a specif
 
 - `requests`
 - `tkinter`
+- 'Statistics'
+- 'Datetime'
